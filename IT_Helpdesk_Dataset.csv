@@ -1,0 +1,201 @@
+TicketID,Category,Priority,Status,Agent,CreatedDate,ResolvedDate,ResolutionTimeDays
+TKT1000,Access,Low,Open,Agent A,2025-01-29,2025-02-03,5
+TKT1001,Access,High,In Progress,Agent C,2025-06-13,2025-06-14,1
+TKT1002,Access,High,Open,Agent C,2025-05-30,2025-05-31,1
+TKT1003,Software,Low,Open,Agent B,2025-04-12,2025-04-15,3
+TKT1004,Hardware,Medium,Open,Agent B,2025-02-19,2025-02-19,0
+TKT1005,Hardware,Critical,Open,Agent D,2025-04-23,2025-04-23,0
+TKT1006,Email,Low,Open,Agent C,2025-03-17,2025-03-20,3
+TKT1007,Email,High,Closed,Agent D,2025-05-03,2025-05-03,0
+TKT1008,Software,Critical,Closed,Agent C,2025-06-04,2025-06-08,4
+TKT1009,Software,Critical,Closed,Agent C,2025-01-18,2025-01-20,2
+TKT1010,Network,Low,Closed,Agent D,2025-05-07,2025-05-12,5
+TKT1011,Software,Low,Open,Agent B,2025-01-03,2025-01-04,1
+TKT1012,Access,High,In Progress,Agent B,2025-01-30,2025-02-04,5
+TKT1013,Network,Medium,Closed,Agent D,2025-01-22,2025-01-26,4
+TKT1014,Email,High,Open,Agent A,2025-03-07,2025-03-09,2
+TKT1015,Software,Critical,Closed,Agent C,2025-01-30,2025-01-31,1
+TKT1016,Access,Medium,Closed,Agent B,2025-02-22,2025-02-26,4
+TKT1017,Network,High,In Progress,Agent B,2025-05-14,2025-05-15,1
+TKT1018,Email,High,Open,Agent C,2025-02-14,2025-02-17,3
+TKT1019,Hardware,Critical,Closed,Agent A,2025-03-07,2025-03-09,2
+TKT1020,Software,Low,Closed,Agent A,2025-03-04,2025-03-06,2
+TKT1021,Network,Medium,In Progress,Agent C,2025-06-16,2025-06-21,5
+TKT1022,Access,Medium,Open,Agent A,2025-02-07,2025-02-08,1
+TKT1023,Access,Medium,Closed,Agent B,2025-05-02,2025-05-02,0
+TKT1024,Software,Medium,In Progress,Agent B,2025-02-19,2025-02-21,2
+TKT1025,Network,High,Open,Agent C,2025-02-17,2025-02-22,5
+TKT1026,Hardware,Low,Closed,Agent D,2025-03-21,2025-03-26,5
+TKT1027,Access,Medium,In Progress,Agent B,2025-03-30,2025-04-02,3
+TKT1028,Email,Critical,In Progress,Agent C,2025-06-21,2025-06-21,0
+TKT1029,Email,Low,Closed,Agent A,2025-03-10,2025-03-15,5
+TKT1030,Access,High,Open,Agent A,2025-06-07,2025-06-07,0
+TKT1031,Network,Low,Open,Agent A,2025-04-25,2025-04-30,5
+TKT1032,Software,Low,Open,Agent D,2025-03-27,2025-03-29,2
+TKT1033,Access,Low,Closed,Agent B,2025-01-18,2025-01-18,0
+TKT1034,Email,Critical,In Progress,Agent D,2025-05-31,2025-06-01,1
+TKT1035,Network,Low,In Progress,Agent A,2025-01-11,2025-01-16,5
+TKT1036,Access,Critical,Closed,Agent A,2025-03-30,2025-03-30,0
+TKT1037,Hardware,Medium,In Progress,Agent B,2025-02-13,2025-02-16,3
+TKT1038,Email,High,Open,Agent A,2025-03-11,2025-03-15,4
+TKT1039,Network,High,Closed,Agent A,2025-05-26,2025-05-26,0
+TKT1040,Hardware,Medium,In Progress,Agent A,2025-05-19,2025-05-24,5
+TKT1041,Hardware,Critical,Closed,Agent D,2025-01-22,2025-01-25,3
+TKT1042,Hardware,Low,In Progress,Agent B,2025-06-23,2025-06-27,4
+TKT1043,Network,Critical,Closed,Agent D,2025-02-20,2025-02-24,4
+TKT1044,Hardware,High,In Progress,Agent A,2025-01-09,2025-01-09,0
+TKT1045,Access,Medium,Open,Agent A,2025-03-26,2025-03-26,0
+TKT1046,Access,Critical,Open,Agent D,2025-04-03,2025-04-08,5
+TKT1047,Software,Critical,In Progress,Agent A,2025-06-16,2025-06-18,2
+TKT1048,Email,Critical,Open,Agent B,2025-06-16,2025-06-19,3
+TKT1049,Network,Medium,Open,Agent C,2025-02-25,2025-02-26,1
+TKT1050,Network,High,In Progress,Agent D,2025-02-01,2025-02-03,2
+TKT1051,Hardware,High,In Progress,Agent A,2025-04-30,2025-05-04,4
+TKT1052,Network,High,Open,Agent D,2025-04-10,2025-04-11,1
+TKT1053,Software,High,Closed,Agent D,2025-04-07,2025-04-10,3
+TKT1054,Software,High,Closed,Agent B,2025-01-28,2025-01-29,1
+TKT1055,Network,Medium,Open,Agent D,2025-01-18,2025-01-20,2
+TKT1056,Hardware,Low,Open,Agent B,2025-03-10,2025-03-15,5
+TKT1057,Access,Medium,Open,Agent A,2025-05-15,2025-05-15,0
+TKT1058,Email,High,Open,Agent B,2025-02-21,2025-02-25,4
+TKT1059,Email,Critical,In Progress,Agent C,2025-01-08,2025-01-12,4
+TKT1060,Software,High,In Progress,Agent B,2025-03-23,2025-03-24,1
+TKT1061,Software,High,In Progress,Agent D,2025-06-07,2025-06-11,4
+TKT1062,Software,Medium,Closed,Agent A,2025-06-14,2025-06-16,2
+TKT1063,Access,High,In Progress,Agent D,2025-05-04,2025-05-07,3
+TKT1064,Access,Medium,In Progress,Agent D,2025-02-08,2025-02-08,0
+TKT1065,Email,High,In Progress,Agent C,2025-05-30,2025-06-02,3
+TKT1066,Email,Medium,In Progress,Agent D,2025-06-22,2025-06-24,2
+TKT1067,Software,Low,Open,Agent D,2025-01-07,2025-01-11,4
+TKT1068,Access,Critical,Closed,Agent C,2025-01-12,2025-01-15,3
+TKT1069,Email,Critical,Open,Agent C,2025-01-16,2025-01-17,1
+TKT1070,Hardware,Medium,Closed,Agent B,2025-03-08,2025-03-12,4
+TKT1071,Access,High,Open,Agent C,2025-01-10,2025-01-15,5
+TKT1072,Hardware,Medium,Open,Agent B,2025-04-29,2025-05-04,5
+TKT1073,Network,Medium,Open,Agent A,2025-01-23,2025-01-27,4
+TKT1074,Hardware,Medium,Closed,Agent A,2025-03-25,2025-03-28,3
+TKT1075,Software,Critical,Open,Agent B,2025-01-28,2025-01-28,0
+TKT1076,Hardware,High,Open,Agent B,2025-06-11,2025-06-13,2
+TKT1077,Software,Critical,Closed,Agent C,2025-03-07,2025-03-09,2
+TKT1078,Software,Medium,Open,Agent A,2025-03-16,2025-03-16,0
+TKT1079,Network,Low,In Progress,Agent C,2025-06-09,2025-06-13,4
+TKT1080,Hardware,High,Closed,Agent D,2025-04-09,2025-04-09,0
+TKT1081,Access,Medium,In Progress,Agent D,2025-05-03,2025-05-08,5
+TKT1082,Software,High,Closed,Agent C,2025-05-03,2025-05-05,2
+TKT1083,Network,High,In Progress,Agent C,2025-03-21,2025-03-22,1
+TKT1084,Email,Medium,Open,Agent B,2025-05-16,2025-05-20,4
+TKT1085,Network,High,Open,Agent B,2025-05-04,2025-05-06,2
+TKT1086,Access,Medium,In Progress,Agent C,2025-04-28,2025-05-03,5
+TKT1087,Software,Low,Open,Agent D,2025-02-01,2025-02-04,3
+TKT1088,Software,High,Open,Agent A,2025-06-24,2025-06-25,1
+TKT1089,Access,Medium,Open,Agent C,2025-01-12,2025-01-15,3
+TKT1090,Hardware,Medium,In Progress,Agent C,2025-01-17,2025-01-20,3
+TKT1091,Access,High,Closed,Agent B,2025-01-08,2025-01-09,1
+TKT1092,Software,Critical,In Progress,Agent B,2025-03-14,2025-03-17,3
+TKT1093,Hardware,Low,In Progress,Agent B,2025-06-14,2025-06-14,0
+TKT1094,Software,Low,In Progress,Agent A,2025-01-03,2025-01-06,3
+TKT1095,Hardware,High,In Progress,Agent C,2025-05-16,2025-05-21,5
+TKT1096,Software,Medium,Open,Agent D,2025-03-03,2025-03-07,4
+TKT1097,Access,High,Closed,Agent A,2025-01-11,2025-01-12,1
+TKT1098,Network,High,Open,Agent A,2025-06-12,2025-06-15,3
+TKT1099,Hardware,High,Closed,Agent C,2025-04-29,2025-04-29,0
+TKT1100,Hardware,Critical,In Progress,Agent C,2025-02-05,2025-02-10,5
+TKT1101,Access,High,Closed,Agent A,2025-04-11,2025-04-16,5
+TKT1102,Email,Critical,Closed,Agent C,2025-02-16,2025-02-16,0
+TKT1103,Access,Medium,Open,Agent A,2025-04-25,2025-04-25,0
+TKT1104,Access,High,Closed,Agent D,2025-01-09,2025-01-09,0
+TKT1105,Software,High,In Progress,Agent A,2025-06-23,2025-06-26,3
+TKT1106,Software,Medium,Closed,Agent A,2025-03-27,2025-04-01,5
+TKT1107,Access,Low,Closed,Agent C,2025-05-19,2025-05-19,0
+TKT1108,Access,Critical,Open,Agent C,2025-04-22,2025-04-25,3
+TKT1109,Access,Medium,Closed,Agent B,2025-02-01,2025-02-05,4
+TKT1110,Software,Low,In Progress,Agent A,2025-04-21,2025-04-25,4
+TKT1111,Network,Critical,Closed,Agent B,2025-02-03,2025-02-03,0
+TKT1112,Software,Low,Closed,Agent D,2025-04-10,2025-04-10,0
+TKT1113,Network,Medium,Closed,Agent C,2025-01-15,2025-01-16,1
+TKT1114,Software,High,Open,Agent B,2025-05-09,2025-05-14,5
+TKT1115,Hardware,Medium,Closed,Agent A,2025-06-14,2025-06-15,1
+TKT1116,Hardware,Medium,Open,Agent B,2025-04-10,2025-04-14,4
+TKT1117,Hardware,High,In Progress,Agent C,2025-05-08,2025-05-12,4
+TKT1118,Software,Medium,Closed,Agent A,2025-04-15,2025-04-15,0
+TKT1119,Software,Low,Closed,Agent B,2025-06-29,2025-06-29,0
+TKT1120,Access,Critical,Open,Agent D,2025-05-07,2025-05-09,2
+TKT1121,Software,Critical,Open,Agent A,2025-03-05,2025-03-07,2
+TKT1122,Access,Low,In Progress,Agent D,2025-02-15,2025-02-15,0
+TKT1123,Email,High,In Progress,Agent B,2025-03-13,2025-03-14,1
+TKT1124,Hardware,Low,In Progress,Agent C,2025-03-10,2025-03-13,3
+TKT1125,Access,High,Closed,Agent A,2025-04-08,2025-04-11,3
+TKT1126,Email,Critical,Open,Agent A,2025-05-11,2025-05-16,5
+TKT1127,Email,Low,In Progress,Agent C,2025-05-25,2025-05-28,3
+TKT1128,Email,Low,Closed,Agent A,2025-05-05,2025-05-08,3
+TKT1129,Network,Low,In Progress,Agent B,2025-03-27,2025-03-30,3
+TKT1130,Hardware,High,In Progress,Agent A,2025-01-25,2025-01-30,5
+TKT1131,Hardware,Critical,Closed,Agent A,2025-03-03,2025-03-08,5
+TKT1132,Hardware,Medium,Closed,Agent A,2025-05-10,2025-05-14,4
+TKT1133,Email,Low,Open,Agent C,2025-03-06,2025-03-07,1
+TKT1134,Email,Critical,In Progress,Agent B,2025-04-30,2025-04-30,0
+TKT1135,Access,Medium,Closed,Agent D,2025-01-31,2025-02-02,2
+TKT1136,Software,Medium,Open,Agent B,2025-06-03,2025-06-06,3
+TKT1137,Software,Low,In Progress,Agent B,2025-05-30,2025-06-03,4
+TKT1138,Network,Critical,Open,Agent D,2025-04-06,2025-04-11,5
+TKT1139,Access,Critical,In Progress,Agent C,2025-03-16,2025-03-17,1
+TKT1140,Software,Medium,Open,Agent C,2025-05-04,2025-05-06,2
+TKT1141,Access,Low,In Progress,Agent A,2025-01-07,2025-01-08,1
+TKT1142,Access,High,In Progress,Agent B,2025-05-20,2025-05-20,0
+TKT1143,Access,Medium,Closed,Agent A,2025-04-27,2025-05-01,4
+TKT1144,Access,Critical,Open,Agent D,2025-02-12,2025-02-12,0
+TKT1145,Hardware,High,In Progress,Agent B,2025-03-03,2025-03-07,4
+TKT1146,Network,Low,Open,Agent D,2025-03-20,2025-03-21,1
+TKT1147,Access,Low,In Progress,Agent B,2025-03-01,2025-03-05,4
+TKT1148,Hardware,Low,Open,Agent B,2025-04-11,2025-04-16,5
+TKT1149,Access,High,Open,Agent D,2025-01-21,2025-01-23,2
+TKT1150,Network,High,In Progress,Agent B,2025-06-18,2025-06-18,0
+TKT1151,Software,Medium,In Progress,Agent B,2025-01-08,2025-01-08,0
+TKT1152,Software,High,Open,Agent D,2025-02-10,2025-02-12,2
+TKT1153,Hardware,Medium,Open,Agent D,2025-03-05,2025-03-08,3
+TKT1154,Access,Critical,Open,Agent A,2025-01-05,2025-01-09,4
+TKT1155,Network,Medium,In Progress,Agent A,2025-06-30,2025-06-30,0
+TKT1156,Access,High,Open,Agent B,2025-03-22,2025-03-27,5
+TKT1157,Software,Low,Closed,Agent A,2025-05-02,2025-05-07,5
+TKT1158,Network,Medium,Closed,Agent C,2025-01-18,2025-01-20,2
+TKT1159,Access,High,Open,Agent A,2025-03-22,2025-03-25,3
+TKT1160,Access,High,Open,Agent C,2025-06-22,2025-06-25,3
+TKT1161,Email,High,Closed,Agent C,2025-02-28,2025-03-05,5
+TKT1162,Email,Critical,Closed,Agent D,2025-03-08,2025-03-13,5
+TKT1163,Email,Low,Closed,Agent C,2025-02-18,2025-02-22,4
+TKT1164,Access,Low,Closed,Agent D,2025-03-11,2025-03-11,0
+TKT1165,Software,Medium,Open,Agent B,2025-02-06,2025-02-07,1
+TKT1166,Access,High,Closed,Agent B,2025-01-13,2025-01-16,3
+TKT1167,Software,Low,Open,Agent C,2025-03-16,2025-03-16,0
+TKT1168,Access,Critical,In Progress,Agent B,2025-01-12,2025-01-13,1
+TKT1169,Access,Medium,Closed,Agent C,2025-02-19,2025-02-23,4
+TKT1170,Access,Low,In Progress,Agent D,2025-06-10,2025-06-15,5
+TKT1171,Email,Critical,In Progress,Agent A,2025-03-27,2025-03-29,2
+TKT1172,Hardware,High,Closed,Agent D,2025-05-10,2025-05-13,3
+TKT1173,Hardware,High,In Progress,Agent A,2025-06-19,2025-06-23,4
+TKT1174,Access,Medium,Closed,Agent B,2025-01-18,2025-01-23,5
+TKT1175,Email,Critical,In Progress,Agent C,2025-04-20,2025-04-25,5
+TKT1176,Access,High,Closed,Agent B,2025-04-16,2025-04-17,1
+TKT1177,Software,Critical,Open,Agent D,2025-02-05,2025-02-06,1
+TKT1178,Network,Low,In Progress,Agent C,2025-05-25,2025-05-28,3
+TKT1179,Software,Critical,Open,Agent D,2025-01-06,2025-01-08,2
+TKT1180,Hardware,Critical,Closed,Agent B,2025-01-02,2025-01-06,4
+TKT1181,Email,High,In Progress,Agent C,2025-04-20,2025-04-22,2
+TKT1182,Network,Medium,In Progress,Agent C,2025-03-01,2025-03-05,4
+TKT1183,Hardware,Critical,Closed,Agent C,2025-04-18,2025-04-23,5
+TKT1184,Hardware,High,In Progress,Agent B,2025-02-20,2025-02-25,5
+TKT1185,Email,Low,Closed,Agent B,2025-06-26,2025-07-01,5
+TKT1186,Network,Critical,Open,Agent A,2025-04-26,2025-04-28,2
+TKT1187,Software,Critical,Closed,Agent A,2025-05-08,2025-05-10,2
+TKT1188,Access,High,Open,Agent C,2025-03-25,2025-03-30,5
+TKT1189,Email,Critical,Closed,Agent D,2025-03-28,2025-03-29,1
+TKT1190,Network,Low,Open,Agent B,2025-05-02,2025-05-06,4
+TKT1191,Email,High,Closed,Agent B,2025-02-02,2025-02-02,0
+TKT1192,Email,Medium,Open,Agent B,2025-03-04,2025-03-04,0
+TKT1193,Software,Medium,Closed,Agent D,2025-06-27,2025-06-28,1
+TKT1194,Software,High,Open,Agent C,2025-05-26,2025-05-31,5
+TKT1195,Network,Low,Closed,Agent B,2025-06-09,2025-06-12,3
+TKT1196,Network,Medium,Closed,Agent C,2025-01-04,2025-01-05,1
+TKT1197,Hardware,Medium,Open,Agent B,2025-02-17,2025-02-21,4
+TKT1198,Access,High,Open,Agent B,2025-02-28,2025-03-04,4
+TKT1199,Hardware,High,Closed,Agent A,2025-04-02,2025-04-06,4
